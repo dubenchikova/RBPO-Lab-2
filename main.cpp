@@ -24,46 +24,46 @@ int main() {
 			std::cout << "You choose 1 Task to test." << std::endl
 				<< "Input x, y, n and epsilon:" << std::endl;
 			std::cin >> x >> y >> n >> eps;
-			std::cout << "f1(x) = " << RBPO::Lab2::Variant15::Task1::f1(x, y) << std::endl
-				<< "f2(x) = " << RBPO::Lab2::Variant15::Task1::f2(x) << std::endl
-				<< "f3(n) = " << RBPO::Lab2::Variant15::Task1::f3(n) << std::endl
-				<< "f4(eps) = " << RBPO::Lab2::Variant15::Task1::f4(eps) << std::endl;
+			std::cout << "f1(x) = " << RBPO::Lab2::Variant9::Task1::f1(x, y) << std::endl
+				<< "f2(x) = " << RBPO::Lab2::Variant9::Task1::f2(x) << std::endl
+				<< "f3(n) = " << RBPO::Lab2::Variant9::Task1::f3(n) << std::endl
+				<< "f4(eps) = " << RBPO::Lab2::Variant9::Task1::f4(eps) << std::endl;
 			break;
 		case Task2:
 			std::cout << "You choose 2 Task to test." << std::endl
 				<< "Input x, y, n and epsilon:" << std::endl;
 			std::cin >> x >> y >> n >> eps;
-			std::cout << "f1(x) = " << RBPO::Lab2::Variant15::Task2::f1(x, y) << std::endl
-				<< "f2(x) = " << RBPO::Lab2::Variant15::Task2::f2(x) << std::endl
-				<< "f3(n) = " << RBPO::Lab2::Variant15::Task2::f3(n) << std::endl
-				<< "f4(eps) = " << RBPO::Lab2::Variant15::Task2::f4(eps) << std::endl;
+			std::cout << "f1(x) = " << RBPO::Lab2::Variant9::Task2::f1(x, y) << std::endl
+				<< "f2(x) = " << RBPO::Lab2::Variant9::Task2::f2(x) << std::endl
+				<< "f3(n) = " << RBPO::Lab2::Variant9::Task2::f3(n) << std::endl
+				<< "f4(eps) = " << RBPO::Lab2::Variant9::Task2::f4(eps) << std::endl;
 			break;
 		case Task3:
 			std::cout << "You choose 3 Task to test." << std::endl
 				<< "Input x, y, n and epsilon:" << std::endl;
 			std::cin >> x >> y >> n >> eps;
-			std::cout << "f1(x) = " << RBPO::Lab2::Variant15::Task3::f1(x, y) << std::endl
-				<< "f2(x) = " << RBPO::Lab2::Variant15::Task3::f2(x) << std::endl
-				<< "f3(n) = " << RBPO::Lab2::Variant15::Task3::f3(n) << std::endl
-				<< "f4(eps) = " << RBPO::Lab2::Variant15::Task3::f4(eps) << std::endl;
+			std::cout << "f1(x) = " << RBPO::Lab2::Variant9::Task3::f1(x, y) << std::endl
+				<< "f2(x) = " << RBPO::Lab2::Variant9::Task3::f2(x) << std::endl
+				<< "f3(n) = " << RBPO::Lab2::Variant9::Task3::f3(n) << std::endl
+				<< "f4(eps) = " << RBPO::Lab2::Variant9::Task3::f4(eps) << std::endl;
 			break;
 		case Task4:
 			std::cout << "You choose 4 Task to test." << std::endl
 				<< "Input x, y, n and epsilon:" << std::endl;
 			std::cin >> x >> y >> n >> eps;
-			std::cout << "f1(x) = " << RBPO::Lab2::Variant15::Task4::f1(x, y) << std::endl
-				<< "f2(x) = " << RBPO::Lab2::Variant15::Task4::f2(x) << std::endl
-				<< "f3(n) = " << RBPO::Lab2::Variant15::Task4::f3(n) << std::endl
-				<< "f4(eps) = " << RBPO::Lab2::Variant15::Task4::f4(eps) << std::endl;
+			std::cout << "f1(x) = " << RBPO::Lab2::Variant9::Task4::f1(x, y) << std::endl
+				<< "f2(x) = " << RBPO::Lab2::Variant9::Task4::f2(x) << std::endl
+				<< "f3(n) = " << RBPO::Lab2::Variant9::Task4::f3(n) << std::endl
+				<< "f4(eps) = " << RBPO::Lab2::Variant9::Task4::f4(eps) << std::endl;
 			break;
 		case Task5:
 			std::cout << "You choose 5 Task to test." << std::endl
 				<< "Input x, y, n and epsilon:" << std::endl;
 			std::cin >> x >> y >> n >> eps;
-			std::cout << "f1(x) = " << RBPO::Lab2::Variant15::Task5::f1(x, y) << std::endl
-				<< "f2(x) = " << RBPO::Lab2::Variant15::Task5::f2(x) << std::endl
-				<< "f3(n) = " << RBPO::Lab2::Variant15::Task5::f3(n) << std::endl
-				<< "f4(eps) = " << RBPO::Lab2::Variant15::Task5::f4(eps) << std::endl;
+			std::cout << "f1(x) = " << RBPO::Lab2::Variant9::Task5::f1(x, y) << std::endl
+				<< "f2(x) = " << RBPO::Lab2::Variant9::Task5::f2(x) << std::endl
+				<< "f3(n) = " << RBPO::Lab2::Variant9::Task5::f3(n) << std::endl
+				<< "f4(eps) = " << RBPO::Lab2::Variant9::Task5::f4(eps) << std::endl;
 			break;
 		case 'Q':
 			break;

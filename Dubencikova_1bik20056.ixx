@@ -11,7 +11,7 @@ export import :F4;
 
 namespace RBPO {
 	namespace Lab2 {
-		namespace Variant15 {
+		namespace Variant9 {
 			namespace Task1 {
 				export double f1(double, double);
 				export double f2(double);
@@ -72,7 +72,7 @@ module :private;
 
 namespace RBPO {
 	namespace Lab2 {
-		namespace Variant15 {
+		namespace Variant9 {
 			namespace Task5 {
 				double f1(double x, double y) {
 					return (cos(x) - cos(y)) * (cos(x) - cos(y)) - (sin(x) - (-1) * sin(y)) * (sin(x) - (-1) * sin(y));
